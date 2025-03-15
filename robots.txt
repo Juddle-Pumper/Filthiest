@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.obrien.ninja/sitemap.xml

@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Filth City",
+    "description": "",
+    "home_page_url": "https://www.obrien.ninja",
+    "feed_url": "https://www.obrien.ninja/feed.json",
+    "user_comment": "",
+    "icon": "https://www.obrien.ninja/media/website/skeletor-logo-7A7E50CC0F-seeklogo.com-2.png",
+    "author": {
+        "name": "Goblin King"
+    },
+    "items": [
+    ]
+}

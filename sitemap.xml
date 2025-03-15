@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.obrien.ninja/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.obrien.ninja/</loc>
+</url>
+<url>
+<loc>https://www.obrien.ninja/professional/</loc>
+<lastmod>2025-03-15T03:14:44-05:00</lastmod>
+<image:image>
+<image:loc>https://www.obrien.ninja/media/posts/2/skeletor-logo-png_seeklogo-516170-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.obrien.ninja/welcom-to-filth-city/</loc>
+<lastmod>2025-03-15T03:00:56-05:00</lastmod>
+<image:image>
+<image:loc>https://www.obrien.ninja/media/posts/1/favicon-96x96.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
