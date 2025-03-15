@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: file:///C:\Users\jmatt\OneDrive - obrien.ninja\Documents\Publii\filth-city-2-even-filthier\preview/sitemap.xml
