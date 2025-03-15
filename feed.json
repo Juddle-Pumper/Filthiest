@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Filth City",
+    "description": "",
+    "home_page_url": "https://probeme.z13.web.core.windows.net",
+    "feed_url": "https://probeme.z13.web.core.windows.net/feed.json",
+    "user_comment": "",
+    "icon": "https://probeme.z13.web.core.windows.net/media/website/skeletor-logo-7A7E50CC0F-seeklogo.com-2.png",
+    "author": {
+        "name": "Goblin King"
+    },
+    "items": [
+    ]
+}
